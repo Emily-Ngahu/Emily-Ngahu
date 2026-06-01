@@ -70,12 +70,6 @@ Deep learning project using CNNs to classify emergency and non-emergency vehicle
 
 ---
 
-## 📈 GitHub Stats
-
-![Emily's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emily-Ngahu&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emily-Ngahu&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🌱 Currently Learning
