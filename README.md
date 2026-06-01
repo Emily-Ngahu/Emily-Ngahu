@@ -5,8 +5,7 @@ Machine Learning Engineer
 </h3>
 
 <p align="center">
-Passionate about transforming data into actionable insights through analytics,
-machine learning, and data visualization.
+Building data-driven solutions using analytics, machine learning, and statistical modelling.
 </p>
   
   ---
@@ -102,8 +101,6 @@ Deep learning project using CNNs to classify emergency and non-emergency vehicle
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emily%20Ngahu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emily-ngahu)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Emily--Ngahu-black?style=for-the-badge&logo=github)](https://github.com/Emily-Ngahu)
 
 Email: emilyngahu9@gmail.com
 ---
