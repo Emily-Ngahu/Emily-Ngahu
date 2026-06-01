@@ -40,17 +40,6 @@ Building data-driven solutions using analytics, machine learning, and statistica
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 
-## 📂 Featured Projects
-
-### 🚑 Emergency Vehicle Classifier
-Deep Learning project using CNNs to classify emergency and non-emergency vehicles.
-
-### ☕ Coffee Production Dashboard
-Interactive Power BI dashboard analyzing coffee production trends and insights.
-
-
-
----
 
 ## 📂 Featured Projects
 
