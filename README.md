@@ -5,7 +5,7 @@ Machine Learning Engineer
 </h3>
 
 <p align="center">
-Building data-driven solutions using analytics, machine learning, and statistical modelling.
+Crafting robust AI & ML pipelines powered by data, statistics, and experimentation to build solutions that drive decisions, efficiency, and innovation..
 </p>
   
   ---
