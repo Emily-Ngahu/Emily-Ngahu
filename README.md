@@ -16,7 +16,7 @@ Building data-driven solutions using analytics, machine learning, and statistica
 - 📚 MSc Data Science & Artificial Intelligence Student
 - 📊 Skilled in Data Analysis, Machine Learning, Statistical Modelling, and Business Intelligence
 - 💡 Interested in Data Analytics, AI, Insurance Analytics, and Predictive Modelling
-- 🌱 Currently building projects in Machine Learning, Deep Learning, and Business Intelligence
+- 🌱 Currently building projects in Machine Learning, Deep Learning, Business Intelligence and Automation.
  ---
 
 ## 🛠️ Tech Stack
